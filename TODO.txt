@@ -1,0 +1,28 @@
+TODO
+contact us
+//admin
+=====>add update edit see list of contact us data
+
+//user end
+
+contact us form(controller/ contactus)
+-------client side validation
+-------server side validation
+-------allow save and show thankyo msg to each entry
+
+
+--service
+	db access /other functionality
+
+
+1.db design
+2.model creation
+3.service creation
+4.admin
+4.form for user
+5.api endpoints
+
+6.di register
+
+
+
